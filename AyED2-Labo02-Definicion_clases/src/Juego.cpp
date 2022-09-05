@@ -31,6 +31,7 @@ private:
   uint _turno;
 
   list<Pocion> _pociones;
+  uint _movimientos_disponibles();
   uint _movimientos_este_turno;
 };
 
@@ -63,16 +64,29 @@ void Juego::mover_jugador(char dir)
   {
     _pos.first++;
   }
-  
+
   _movimientos_este_turno++;
+  if(_movimientos_este_turno >= _movimientos_disponibles()){
+    _turno++;
+    _movimientos_este_turno = 0;
+  }
+}
 
-
-  _turno++;
-  _movimientos_este_turno = 0;
+uint Juego::_movimientos_disponibles()
+{
+  uint movimientos_disponibles = 0;
+  for (Pocion poc : _pociones)
+  {
+    if (turno_actual() < poc.second)
+    {
+      movimientos_disponibles += poc.first;
+    }
+  }
+  return movimientos_disponibles;
 }
 
 void Juego::ingerir_pocion(uint movimientos, uint turnos)
 {
-  Pocion poc = make_pair(movimientos, turnos);
+  Pocion poc = make_pair(movimientos, turno_actual() + turnos);
   _pociones.push_back(poc);
 }

@@ -211,4 +211,6 @@ CMakeFiles/ej15.dir/tests/test_juego.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/9/bits/cxxabi_tweaks.h \
  /usr/include/c++/9/iterator /usr/include/c++/9/bits/stream_iterator.h \
  /usr/include/assert.h \
- /home/joacopolo/Documents/exactas/algo2/AyED2-Labo02-Definicion_clases/tests/../src/Juego.cpp
+ /home/joacopolo/Documents/exactas/algo2/AyED2-Labo02-Definicion_clases/tests/../src/Juego.cpp \
+ /usr/include/c++/9/list /usr/include/c++/9/bits/stl_list.h \
+ /usr/include/c++/9/bits/allocated_ptr.h /usr/include/c++/9/bits/list.tcc

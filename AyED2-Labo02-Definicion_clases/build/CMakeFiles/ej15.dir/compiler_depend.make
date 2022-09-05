@@ -272,8 +272,16 @@ CMakeFiles/ej15.dir/tests/test_juego.cpp.o: /home/joacopolo/Documents/exactas/al
   /usr/include/c++/9/iterator \
   /usr/include/c++/9/bits/stream_iterator.h \
   /usr/include/assert.h \
-  /home/joacopolo/Documents/exactas/algo2/AyED2-Labo02-Definicion_clases/src/Juego.cpp
+  /home/joacopolo/Documents/exactas/algo2/AyED2-Labo02-Definicion_clases/src/Juego.cpp \
+  /usr/include/c++/9/list \
+  /usr/include/c++/9/bits/stl_list.h \
+  /usr/include/c++/9/bits/allocated_ptr.h \
+  /usr/include/c++/9/bits/list.tcc
 
+
+/usr/include/c++/9/bits/allocated_ptr.h:
+
+/usr/include/c++/9/list:
 
 /home/joacopolo/Documents/exactas/algo2/AyED2-Labo02-Definicion_clases/src/Juego.cpp:
 
@@ -731,6 +739,8 @@ CMakeFiles/ej15.dir/tests/test_juego.cpp.o: /home/joacopolo/Documents/exactas/al
 
 /usr/include/c++/9/bits/stl_relops.h:
 
+/usr/include/c++/9/bits/list.tcc:
+
 /usr/include/c++/9/bits/algorithmfwd.h:
 
 /usr/include/c++/9/bits/alloc_traits.h:
@@ -816,5 +826,7 @@ CMakeFiles/ej15.dir/tests/test_juego.cpp.o: /home/joacopolo/Documents/exactas/al
 /usr/include/x86_64-linux-gnu/c++/9/bits/time_members.h:
 
 /usr/include/c++/9/bits/locale_facets_nonio.tcc:
+
+/usr/include/c++/9/bits/stl_list.h:
 
 /usr/include/c++/9/bits/unique_ptr.h:

@@ -1,0 +1,12 @@
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/gtest.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/gtest_main.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/ej1.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/ej3.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/ej4.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/ej6.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/ej7.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/ej2_correrValgrind.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/ej3_correrValgrind.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/ej5_correrValgrind.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/edit_cache.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo03-Memoria_dinamica/build/CMakeFiles/rebuild_cache.dir

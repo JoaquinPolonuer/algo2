@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/gtest-1.8.1/gtest-all.cc",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/gtest-1.8.1/gtest-all.cc"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/gtest-1.8.1/gtest_main.cc",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/gtest-1.8.1/gtest_main.cc"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/ej1.dir/tests/ej1_periodo.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/ej1_periodo.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/ej1_periodo.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/ej1.dir/src/Periodo.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Periodo.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Periodo.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/ej2.dir/tests/ej2_periodo_y_fecha.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/ej2_periodo_y_fecha.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/ej2_periodo_y_fecha.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/ej2.dir/src/Periodo.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Periodo.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Periodo.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/ej3_funciones.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/ej3_funciones.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/ej3.dir/src/Funciones.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Funciones.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Funciones.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/ej3.dir/src/Periodo.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Periodo.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Periodo.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/ej3.dir/src/Fecha.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Fecha.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Fecha.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/solucion_testing.dir/tests/solucion_testing.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/solucion_testing.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/tests/solucion_testing.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/solucion_testing.dir/src/Truco.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Truco.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Truco.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/solucion_testing.dir/src/Libreta.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Libreta.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo04-Compilacion-Member_classes-Testing/src/Libreta.cpp"
+}
+]

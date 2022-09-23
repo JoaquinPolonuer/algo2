@@ -1,0 +1,6 @@
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/build/CMakeFiles/gtest.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/build/CMakeFiles/gtest_main.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/build/CMakeFiles/correrTests.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/build/CMakeFiles/correrValgrind.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/build/CMakeFiles/edit_cache.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/build/CMakeFiles/rebuild_cache.dir

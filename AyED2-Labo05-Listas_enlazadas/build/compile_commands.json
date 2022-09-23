@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/tests/gtest-1.8.1/gtest-all.cc",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/tests/gtest-1.8.1/gtest-all.cc"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/tests/gtest-1.8.1/gtest_main.cc",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/tests/gtest-1.8.1/gtest_main.cc"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/correrTests.dir/src/Lista.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/src/Lista.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/src/Lista.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++11 -o CMakeFiles/correrTests.dir/tests/lista_tests.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/tests/lista_tests.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo05-Listas_enlazadas/tests/lista_tests.cpp"
+}
+]

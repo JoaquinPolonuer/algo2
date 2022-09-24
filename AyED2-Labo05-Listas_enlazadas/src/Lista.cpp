@@ -11,27 +11,23 @@ Lista::Lista(const Lista &l) : Lista()
 
 Lista::~Lista()
 {
-
+    while(longitud() != 0){
+        eliminar(0);
+    }
 }
 
 Lista &Lista::operator=(const Lista &aCopiar)
 {
-    Nodo* actual = _primero;
-    while(actual != nullptr){
-        Nodo* siguiente = actual -> siguiente;
-        delete actual;
-        actual = siguiente;
+    while(longitud() != 0){
+        eliminar(0);
     }
-    _primero = nullptr;
-    _ultimo = nullptr;
 
     // Agregar los de la lista a copiar
     if(aCopiar.longitud() == 0){
         return *this;
     }
+    
     Nodo* actual_a_copiar = aCopiar._primero;
-    _primero = new Nodo(aCopiar._primero->valor, nullptr);
-    _ultimo = _primero;
 
     while(actual_a_copiar != nullptr){
         agregarAtras(actual_a_copiar -> valor);

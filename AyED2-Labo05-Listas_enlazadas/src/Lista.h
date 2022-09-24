@@ -91,7 +91,7 @@ private:
         Nodo* anterior;
         int valor;
         Nodo* siguiente;
-        Nodo(int v, Nodo* s): valor(v), siguiente(s) {}
+        Nodo(int v, Nodo* s): anterior(nullptr), valor(v), siguiente(s) {}
     };
     Nodo* _primero;
     Nodo* _ultimo; 

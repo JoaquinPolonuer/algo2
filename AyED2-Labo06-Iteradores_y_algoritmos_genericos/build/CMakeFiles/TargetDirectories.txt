@@ -1,0 +1,12 @@
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/gtest.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/gtest_main.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/ej1.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/ej2.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/ej3.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/ej4.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/ej5.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/ej6.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/ej7.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/ej8.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/edit_cache.dir
+/home/joacopolo/Documents/exactas/algo2/AyED2-Labo06-Iteradores_y_algoritmos_genericos/build/CMakeFiles/rebuild_cache.dir

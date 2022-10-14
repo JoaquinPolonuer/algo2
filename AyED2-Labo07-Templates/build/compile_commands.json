@@ -1,0 +1,102 @@
+[
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/gtest-1.8.1/gtest-all.cc",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/gtest-1.8.1/gtest-all.cc"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/gtest-1.8.1/gtest_main.cc",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/gtest-1.8.1/gtest_main.cc"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/base.dir/tests/test_base.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_base.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_base.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=1   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej1.dir/tests/test_templates.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=2   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej2.dir/tests/test_templates.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=3   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej3.dir/tests/test_templates.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=4   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej4.dir/tests/test_templates.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=5   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej5.dir/tests/test_templates.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=5   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej5.dir/tests/test_diccionario.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_diccionario.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_diccionario.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=6   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej6.dir/tests/test_templates.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=6   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej6.dir/tests/test_diccionario.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_diccionario.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_diccionario.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=7   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej7.dir/tests/test_templates.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=7   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej7.dir/tests/test_diccionario.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_diccionario.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_diccionario.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=7   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej7.dir/tests/test_multiconjunto.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_multiconjunto.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_multiconjunto.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=8   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej8.dir/tests/test_templates.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=8   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej8.dir/tests/test_diccionario.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_diccionario.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_diccionario.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=8   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej8.dir/tests/test_multiconjunto.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_multiconjunto.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_multiconjunto.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=9   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej9.dir/tests/test_templates.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_templates.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=9   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej9.dir/tests/test_diccionario.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_diccionario.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_diccionario.cpp"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/build",
+  "command": "/usr/bin/g++ -DEJ=9   -pthread -std=gnu++11 -ggdb3 -g -g -std=gnu++14 -o CMakeFiles/ej9.dir/tests/test_multiconjunto.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_multiconjunto.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo07-Templates/tests/test_multiconjunto.cpp"
+}
+]

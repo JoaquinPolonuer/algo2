@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo08-Conjunto_sobre_ABBs/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -o CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo08-Conjunto_sobre_ABBs/tests/gtest-1.8.1/gtest-all.cc",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo08-Conjunto_sobre_ABBs/tests/gtest-1.8.1/gtest-all.cc"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo08-Conjunto_sobre_ABBs/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -o CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo08-Conjunto_sobre_ABBs/tests/gtest-1.8.1/gtest_main.cc",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo08-Conjunto_sobre_ABBs/tests/gtest-1.8.1/gtest_main.cc"
+},
+{
+  "directory": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo08-Conjunto_sobre_ABBs/build",
+  "command": "/usr/bin/g++    -pthread -std=gnu++11 -ggdb3 -g -g -o CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.o -c /home/joacopolo/Documents/exactas/algo2/AyED2-Labo08-Conjunto_sobre_ABBs/tests/conjunto-tests.cpp",
+  "file": "/home/joacopolo/Documents/exactas/algo2/AyED2-Labo08-Conjunto_sobre_ABBs/tests/conjunto-tests.cpp"
+}
+]

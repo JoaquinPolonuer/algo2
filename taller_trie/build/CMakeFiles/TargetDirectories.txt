@@ -1,0 +1,7 @@
+/home/joacopolo/Documents/exactas/algo2/taller_trie/build/CMakeFiles/gtest.dir
+/home/joacopolo/Documents/exactas/algo2/taller_trie/build/CMakeFiles/gtest_main.dir
+/home/joacopolo/Documents/exactas/algo2/taller_trie/build/CMakeFiles/correrTests.dir
+/home/joacopolo/Documents/exactas/algo2/taller_trie/build/CMakeFiles/correrTests_ext.dir
+/home/joacopolo/Documents/exactas/algo2/taller_trie/build/CMakeFiles/correrValgrind.dir
+/home/joacopolo/Documents/exactas/algo2/taller_trie/build/CMakeFiles/edit_cache.dir
+/home/joacopolo/Documents/exactas/algo2/taller_trie/build/CMakeFiles/rebuild_cache.dir
